@@ -4,9 +4,9 @@
 
 ## 📱 在线阅读版（支持手机/桌面自适应、目录快搜、遮住参考回答自测）
 
-- **在线阅读导航页**：[https://litany-lty.github.io/java-ai-interview-guide/](https://litany-lty.github.io/java-ai-interview-guide/)
-- **完整学习指南（75 节核心知识点 + 225 道变形题 + 227 项术语 + 100 张大厂官方资料卡）**：[guide.html](https://litany-lty.github.io/java-ai-interview-guide/guide.html)
-- **精华速览版（15 分钟建立直觉 + 七步答题模板）**：[summary.html](https://litany-lty.github.io/java-ai-interview-guide/summary.html)
+- **在线阅读导航页**：[https://litany.cn/java-ai-interview-guide/](https://litany.cn/java-ai-interview-guide/)
+- **完整学习指南（75 节核心知识点 + 225 道变形题 + 227 项术语 + 100 张大厂官方资料卡）**：[guide.html](https://litany.cn/java-ai-interview-guide/guide.html)
+- **精华速览版（15 分钟建立直觉 + 七步答题模板）**：[summary.html](https://litany.cn/java-ai-interview-guide/summary.html)
 
 ## 📄 Markdown 源文件
 
